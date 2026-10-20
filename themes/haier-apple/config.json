@@ -1,0 +1,21 @@
+{
+  "dock_apps": [
+    "ag.tv.a24h",
+    "ru.more.play",
+    "mobi.zona",
+    "ru.kinopoisk.tv"
+  ],
+  "fill_dock": false,
+  "columns": 4,
+  "rows_below_dock": 1,
+  "dock_row": true,
+  "dock_title": true,
+  "reduced_motion": true,
+  "animations": true,
+  "advanced_effects": false,
+  "module_cards": false,
+  "show_stats": false,
+  "background_color": "#101116",
+  "sky_intensity": 0,
+  "wallpaper": false
+}
